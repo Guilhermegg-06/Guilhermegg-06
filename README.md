@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Fullstack%20%7C%20Python%20%7C%20Java-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Python%20%7C%20Java-0A66C2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-Brasil-228B22?style=for-the-badge" />
 </p>
 
