@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Python%20%7C%20Java-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-0A66C2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-Brasil-228B22?style=for-the-badge" />
 </p>
 
@@ -53,6 +53,7 @@
 ## 📈 Objetivo atual
 
 Atualmente estou focado em:
-- melhorar melhorar minhas habilidades com a linguagem Java e suas ferramentas e aumentar meu conhecimento no ambito da progamação
+- melhorar melhorar minhas habilidades com a linguagem Java e suas ferramentas
 - evoluir projetos full-stack com visual profissional e boas práticas
-
+- aumentar meu conhecimento no ambito da progamação
+- aprender novas linguagens de programação 
